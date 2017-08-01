@@ -1,3 +1,6 @@
+# sphinx-autobuild . _build_html
+*_build_html/
+
 # vim
 *.sw[po]
 
