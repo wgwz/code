@@ -9,9 +9,8 @@ Welcome to lgcode's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   README.md
-   rust-learning-group/README.md
+
+
 
 Indices and tables
 ==================
